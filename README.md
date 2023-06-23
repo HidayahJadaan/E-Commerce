@@ -1,6 +1,4 @@
-# E-Commerce App using Flutter for Beginners 🛍️📱
-
-Welcome to the E-Commerce App README! This guide is designed for beginner Flutter developers who want to create their own E-Commerce application. 🚀
+# E-Commerce App using Flutter for Beginners 🛍️📱🚀
 
 ## Introduction 📝
 
